@@ -16,6 +16,7 @@
   <build>
     <finalName>scalatra-maven-prototype</finalName>
     <sourceDirectory>src/main/scala</sourceDirectory>
+    <testSourceDirectory>src/test/scala</testSourceDirectory>
     <plugins>
       <plugin>
         <groupId>org.scala-tools</groupId>
