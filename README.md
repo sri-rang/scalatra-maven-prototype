@@ -29,6 +29,6 @@ Why Apache Maven? So that your Scalatra project plays nice with your existing Ma
 
 		mvn jetty:run
 
-5. Go to http://localhost:8080/
+5. Go to http://localhost:8080/my
 
 Learn more about [Scalatra](http://www.scalatra.org/)
