@@ -1,0 +1,5 @@
+<%@ val date: java.util.Date %>
+
+Woof woof World!!<BR/>
+<BR/>
+<%= date %><BR/>

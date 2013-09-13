@@ -1,0 +1,9 @@
+ <%@ val body: String %>
+  <html>
+    <head><title>Layout comes from layouts/default.ssp</title></head>
+    <body>
+     <div style="border:1px solid black">This is from default.ssp layout</div>
+      <%= unescape(body) %>
+      <div style="border:1px solid black">This is from default.ssp layout</div>
+    </body>
+  </html>
