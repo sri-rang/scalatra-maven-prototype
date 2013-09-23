@@ -15,7 +15,7 @@ Why Apache Maven? So that your Scalatra project plays nice with your existing Ma
 
 1. Clone this repository:
 
-		git clone git://github.com/ancellu/scalatra-maven-prototype.git my-app
+		git clone git://github.com/fancellu/scalatra-maven-prototype.git my-app
 
 2. Change directory into your clone:
 
